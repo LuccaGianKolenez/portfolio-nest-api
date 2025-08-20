@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.nyc_output/
+coverage/
+*.log
+.env
+.env.*
+*.local
+.DS_Store
+.vscode/
+.idea/
+prisma/dev.db-journal
