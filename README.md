@@ -99,7 +99,7 @@ pnpm dev
 
 ---
 
-## 🌐 Rotas Principais
+## Rotas Principais
 
 | Recurso           | Método(s)                         | Caminho                   | Auth |
 |-------------------|-----------------------------------|---------------------------|------|
@@ -173,7 +173,7 @@ curl -X DELETE http://localhost:3000/api/items/<uuid>
 
 ---
 
-## 🧪 Testar sem Banco (modo rápido)
+## Testar sem Banco (modo rápido)
 
 O projeto suporta subir **sem conectar ao Postgres** para validar **/api/health** e **/api/docs**.
 
